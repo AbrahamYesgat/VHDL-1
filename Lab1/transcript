@@ -1,0 +1,162 @@
+# Reading C:/McGill/Software_Install/EDU/Altera/15.0/modelsim_ase/tcl/vsim/pref.tcl
+# Loading project lab1_test
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful with warnings.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd failed with 1 errors.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of led_decoder.vhd was successful.
+# Compile of tb_led_decoder.vhd was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_led_decoder
+# vsim -gui 
+# Start time: 17:12:29 on Mar 06,2017
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_led_decoder(behaviour)
+# Loading work.led_decoder(behaviour)
+add wave -position insertpoint  \
+sim:/tb_led_decoder/count_in \
+sim:/tb_led_decoder/leds_out
+run
+run
+run
+run
+run
+run
+run
+run
+run -continue
+run -continue
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run -all
+# ** Note: LED decoder test Sucess!
+#    Time: 100 ns  Iteration: 0  Instance: /tb_led_decoder
+quit -sim
